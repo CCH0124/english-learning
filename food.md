@@ -37,11 +37,11 @@
 # 
 1. Sweet potato ball
 ```
-Sweet potato ball are chewy and crispy in hot food.
+Sweet potato ball are chewy and crispy.
 ```
 2. ping bloob cake
 ```
-Ping bloob cake taste chewy in roast it.
+Ping bloob cake taste chewy.
 ```
 3. stinky tofu
 ```
