@@ -31,27 +31,27 @@ The glass is broken.
 ## HW
 
 ```
-The Bubble milk tea is made tapioca and milk.
+Bubble tea is made from tapioca, milk, black tea.
 ```
 
 ```
-Pig blob cake is made pig blob and little water.
+Pig blood cake is made from pig blood and rice.
 ```
 
 ```
-SLnky tofu is fermented.
+Stinky tofu is made from fermented tofu.
 ```
 
 ```
-Steak is topped little mushroom and Peppercorn sauce.
+Steak is topped with black pepper or mushroom sauce .
 ```
 
 ```
-The window was broken by 頑皮 boy.
+The window was broken a naughty boy.
 ```
 
 ```
-Metting was cancled.
+The meeting was cancelled.
 ```
 
 ```
@@ -59,10 +59,10 @@ My wallet was stolen.
 ```
 
 ```
-This hourse is built in 2021.
+The house was built in 2021/ 1995.
 ```
 
 
 ```
-The package was sent in morning.
+The package was sent this morning
 ```
