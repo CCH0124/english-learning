@@ -37,21 +37,21 @@
 # Homework
 1. Sweet potato ball
 ```
-Sweet potato ball are chewy and crispy. When it is hot.
+Sweet potato balls are chewy and crispy when  they are hot.
 ```
 2. ping bloob cake
 ```
-Ping bloob cake taste chewy. When it is grill.
+Pig blood cake tastes chewy when it is grilled.
 ```
 3. stinky tofu
 ```
-Stinky tofu taste crispy and salty.
+SLnky tofu tastes crispy and salty.
 ```
 4. taco ball
 ```
-I like cheese flavor taco ball. It is salty and crispy.
+I like cheese flavor taco balls. They are salty and crispy.
 ```
 5. chicken breast
 ```
-Chicken breast is bland and tender. I sometime eat it after sport.
+Chicken breast is bland and tender. I someLme eat it after doing sport.
 ```
