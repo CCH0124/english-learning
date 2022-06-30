@@ -14,3 +14,13 @@ Have/has +p.p.
 - I haven’t watched Doctor Strange. 我還沒看過奇異博士
 - I have gone to Japan. 表示我已經出發去
 - I have been to Japan. 表示我已經去過了
+
+介系詞 + ving
+
+```
+What are you interested in?
+I’m interested in watching baseball.
+```
+
+
+## HW
