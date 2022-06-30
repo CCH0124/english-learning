@@ -32,4 +32,11 @@ I’m interested in watching baseball.
 - Singapore 新加坡
 - United Kingdom 英國
 ## HW
-1. 
+1. I have been to Vietnam.
+2. I have gone to Japan.
+3. I have watched this movie twice.
+4. I have saw Stinky tofu at night market.
+5. I haven't eaten Oyster omelette.
+6. I have nerver eaten Thai food. (Thai cuisine)
+7. I have never got a good bubble tea.
+8. I have never to Spanish restaurant.
