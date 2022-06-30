@@ -22,5 +22,14 @@ What are you interested in?
 I’m interested in watching baseball.
 ```
 
+連接詞
 
+- I’m Lred because I didn’t sleep well last night.
+- Because I didn’t sleep well last night, I’m tired.
+
+- Spain 西班牙
+- Thailand 泰國
+- Singapore 新加坡
+- United Kingdom 英國
 ## HW
+1. 
