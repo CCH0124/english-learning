@@ -35,8 +35,8 @@ I’m interested in watching baseball.
 1. I have been to Vietnam.
 2. I have gone to Japan.
 3. I have watched this movie twice.
-4. I have saw Stinky tofu at night market.
+4. I have seen Stinky tofu at night market.
 5. I haven't eaten Oyster omelette.
 6. I have nerver eaten Thai food. (Thai cuisine)
-7. I have never got a good bubble tea.
-8. I have never to Spanish restaurant.
+7. I have never had a good bubble tea.
+8. I have never been to Spanish restaurant.
