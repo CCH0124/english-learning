@@ -21,13 +21,13 @@ There is /are ________ + 地點
 - There are 5 people in the meeting room.
 
 ## HW
-Kaohsiung is a very hot city.
-There are many motorcycles in morning.
-There are many high building.
-There are many shopping mall like Dream Mall, E-DA. Some shopping mall can ride a Ferris wheel.
-There are many visit a tourist attraction at Kaohsiung.
-You can go to Aozihdi Forest Park to walk or break(休息).
-You can go to night market to bug some snack.
-You can go to Xiziwan to view exhibition or sea.
-You can go to Weiwuying to enjoy concert.
-You can go to 旗津 to enjoy sunset or camping. But you need take a cruise.
+- Kaohsiung is a very hot city.
+- There are many motorcycles in morning.
+- There are many high building.
+- There are many shopping mall like Dream Mall, E-DA. Some shopping mall can ride a Ferris wheel.
+- There are many visit a tourist attraction at Kaohsiung.
+- You can go to Aozihdi Forest Park to walk or break(休息).
+- You can go to night market to bug some snack.
+- You can go to Xiziwan to view exhibition or sea.
+- You can go to Weiwuying to enjoy concert.
+- You can go to 旗津 to enjoy sunset or camping. But you need take a cruise.
