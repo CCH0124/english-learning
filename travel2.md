@@ -23,11 +23,11 @@ There is /are ________ + 地點
 ## HW
 - Kaohsiung is a very hot city.
 - There are many motorcycles in morning.
-- There are many high building.
-- There are many shopping mall like Dream Mall, E-DA. Some shopping mall can ride a Ferris wheel.
-- There are many visit a tourist attraction at Kaohsiung.
+- There are many tall buildings.
+- There are many shopping malls like Dream Mall, E-DA. You can ride a ferris wheel at some shopping malls.
+- There are many tourist attractions in Kaohsiung.
 - You can go to Aozihdi Forest Park to walk or break(休息).
-- You can go to night market to bug some snack.
+- You can go to night market to buy some snacks.
 - You can go to Xiziwan to view exhibition or sea.
 - You can go to Weiwuying to enjoy concert.
-- You can go to 旗津 to enjoy sunset or camping. But you need take a cruise.
+- You can go to 旗津 to enjoy sunset or camping, but you need take a cruise.
