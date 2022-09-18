@@ -14,3 +14,4 @@
 |gather|verb |收集，搜集；聚集，集攏(to collect several things, often from different places or people)|We gathered blueberries from the bushes.|
 |substantial|adjective |大的；可觀的；價值巨大的；重大的(large in size, value, or importance)| She inherited a substantial fortune from her grandmother.|
 |redundant|adjective |多餘的，不需要的，累贅的，囉唆的| |
+|utilize|verb  |使用；利用；應用(to use something in an effective way)|The vitamins come in a form that is easily utilized by the body. |
