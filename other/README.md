@@ -11,3 +11,6 @@
 |contrast|noun|相比(an obvious difference between two or more things)|I like the contrast of the white trousers with the black jacket.|
 |subsequent|adjective|隨後的，接著的(happening after something else)|The book discusses his illness and subsequent resignation from politics.|
 |deterministically|adverb |確定性地| |
+|gather|verb |收集，搜集；聚集，集攏(to collect several things, often from different places or people)|We gathered blueberries from the bushes.|
+|substantial|adjective |大的；可觀的；價值巨大的；重大的(large in size, value, or importance)| She inherited a substantial fortune from her grandmother.|
+|redundant|adjective |多餘的，不需要的，累贅的，囉唆的| |
