@@ -19,3 +19,5 @@
 |dizzying(FEELING)|adjective|令人眩暈的，令人頭暈目眩的，令人眼花繚亂的(causing you to feel dizzy) ||
 |settled|adjective|（生活、工作、學習等）安定下來的(If you feel settled in a job, school, etc., you have become familiar with it and are comfortable and happy there.)|Although I worked there for over a year, I never really felt settled.|
 |nowhere|adverb|任何地方都不；無處(in, at, or to no place; not anywhere)|These young people have nowhere (else) to go.|
+|drawback|noun |缺點，弱點；不利因素(a disadvantage or the negative part of a situation)|One of the drawbacks of living with someone is having to share a bathroom.|
+|alleviate|verb |減輕；緩和，緩解(to make something bad such as pain or problems less severe)|The drugs did nothing to alleviate her pain/suffering.|
