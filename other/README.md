@@ -21,3 +21,8 @@
 |nowhere|adverb|任何地方都不；無處(in, at, or to no place; not anywhere)|These young people have nowhere (else) to go.|
 |drawback|noun |缺點，弱點；不利因素(a disadvantage or the negative part of a situation)|One of the drawbacks of living with someone is having to share a bathroom.|
 |alleviate|verb |減輕；緩和，緩解(to make something bad such as pain or problems less severe)|The drugs did nothing to alleviate her pain/suffering.|
+|barrier|noun |障礙；阻礙；隔閡(anything that prevents people from being together or understanding each other)||
+|undue|adjective |過分的，過度的(to a level that is more than is necessary, acceptable, or reasonable)| Such a high increase will impose an undue burden on the local tax payer.|
+|strive|verb |（尤指長期或不畏艱難地）努力，奮鬥，力爭|In her writing she strove for a balance between innovation and familiar prose forms.|
+|reside|verb |居住；定居(to live, have your home, or stay in a place)|The family now resides in southern France.|
+|facilitate|verb |促進；促使；使便利(to make something possible or easier) |The new ramp will facilitate the entry of wheelchairs.|
