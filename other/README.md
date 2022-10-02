@@ -26,3 +26,4 @@
 |strive|verb |（尤指長期或不畏艱難地）努力，奮鬥，力爭|In her writing she strove for a balance between innovation and familiar prose forms.|
 |reside|verb |居住；定居(to live, have your home, or stay in a place)|The family now resides in southern France.|
 |facilitate|verb |促進；促使；使便利(to make something possible or easier) |The new ramp will facilitate the entry of wheelchairs.|
+|straightforward|adjective|容易理解的，簡單的(easy to understand or simple)|Just follow the signs to Bradford - it's very straightforward.|
