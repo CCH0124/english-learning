@@ -27,3 +27,5 @@
 |reside|verb |居住；定居(to live, have your home, or stay in a place)|The family now resides in southern France.|
 |facilitate|verb |促進；促使；使便利(to make something possible or easier) |The new ramp will facilitate the entry of wheelchairs.|
 |straightforward|adjective|容易理解的，簡單的(easy to understand or simple)|Just follow the signs to Bradford - it's very straightforward.|
+|investigate|verb|（尤指為揭開真相）調查，審查|Police are investigating allegations of corruption involving senior executives.|
+| | | | |
