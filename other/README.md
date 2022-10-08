@@ -28,4 +28,6 @@
 |facilitate|verb |促進；促使；使便利(to make something possible or easier) |The new ramp will facilitate the entry of wheelchairs.|
 |straightforward|adjective|容易理解的，簡單的(easy to understand or simple)|Just follow the signs to Bradford - it's very straightforward.|
 |investigate|verb|（尤指為揭開真相）調查，審查|Police are investigating allegations of corruption involving senior executives.|
-| | | | |
+|comprise|verb |包含；包括；構成，組成(to have as parts or members, or to be those parts or members)|The course comprises a class book, a practice book, and a CD.|
+|diverge|verb |（道路）分叉；出現差異；發生分歧|Although the two organizations have worked together for many years, their objectives have diverged recently.|
+
