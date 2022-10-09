@@ -30,4 +30,5 @@
 |investigate|verb|（尤指為揭開真相）調查，審查|Police are investigating allegations of corruption involving senior executives.|
 |comprise|verb |包含；包括；構成，組成(to have as parts or members, or to be those parts or members)|The course comprises a class book, a practice book, and a CD.|
 |diverge|verb |（道路）分叉；出現差異；發生分歧|Although the two organizations have worked together for many years, their objectives have diverged recently.|
-
+|warranted|adjective|有正當理由的；需要的(If something is warranted, there is a good reason for it and it can be accepted.)| |
+|notable|adjective|顯要的；顯著的；值得注意的(important and deserving attention, because of being very good or interesting)|Getting both sides to agree was a notable achievement.|
