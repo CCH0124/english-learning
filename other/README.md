@@ -33,6 +33,8 @@
 |warranted|adjective|有正當理由的；需要的(If something is warranted, there is a good reason for it and it can be accepted.)| |
 |notable|adjective|顯要的；顯著的；值得注意的(important and deserving attention, because of being very good or interesting)|Getting both sides to agree was a notable achievement.|
 |clash|verb|打鬥，打架；發生衝突；爭論，爭辯(to fight or argue)|Students clashed with police after demonstrations at five universities.|
+|ephemeral|adjective|短暫的，極短的；轉瞬即逝的(lasting for only a short time)|Fame in the world of rock and pop is largely ephemeral.|
+|contend|verb|競爭；爭奪(to compete in order to win something)|There are three world-class tennis players contending for this title.|
 
 ## 片語
 |Ph|Example|
