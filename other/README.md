@@ -32,3 +32,8 @@
 |diverge|verb |（道路）分叉；出現差異；發生分歧|Although the two organizations have worked together for many years, their objectives have diverged recently.|
 |warranted|adjective|有正當理由的；需要的(If something is warranted, there is a good reason for it and it can be accepted.)| |
 |notable|adjective|顯要的；顯著的；值得注意的(important and deserving attention, because of being very good or interesting)|Getting both sides to agree was a notable achievement.|
+|clash|verb|打鬥，打架；發生衝突；爭論，爭辯(to fight or argue)|Students clashed with police after demonstrations at five universities.|
+
+## 片語
+|Ph|Example|
+|communicate with|Nodes can communicate with containers without NAT.|
