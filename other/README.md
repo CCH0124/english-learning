@@ -35,7 +35,8 @@
 |clash|verb|打鬥，打架；發生衝突；爭論，爭辯(to fight or argue)|Students clashed with police after demonstrations at five universities.|
 |ephemeral|adjective|短暫的，極短的；轉瞬即逝的(lasting for only a short time)|Fame in the world of rock and pop is largely ephemeral.|
 |contend|verb|競爭；爭奪(to compete in order to win something)|There are three world-class tennis players contending for this title.|
-
+|broadly|adverb|概括地，大體上地(in a general way, without considering specific examples or all the details)|Broadly speaking, don't you think women make better drivers than men?|
 ## 片語
 |Ph|Example|
+|---|---|
 |communicate with|Nodes can communicate with containers without NAT.|
