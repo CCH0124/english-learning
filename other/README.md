@@ -43,6 +43,7 @@
 |sufficient|adjective|足夠的，充足的(enough for a particular purpose)|This recipe should be sufficient for five people.| 
 |incur|verb |招致；遭受(to experience something, usually something unpleasant, as a result of actions you have taken)|The play has incurred the wrath/anger of both audiences and critics.|
 |nontrivial| | | |
+|contiguous|adjective|相近的，相鄰的；毗鄰的；互相連接的(next to or touching another, usually similar, thing)| |
 ## 片語
 |Ph|Example|
 |---|---|
