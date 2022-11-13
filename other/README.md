@@ -36,6 +36,13 @@
 |ephemeral|adjective|短暫的，極短的；轉瞬即逝的(lasting for only a short time)|Fame in the world of rock and pop is largely ephemeral.|
 |contend|verb|競爭；爭奪(to compete in order to win something)|There are three world-class tennis players contending for this title.|
 |broadly|adverb|概括地，大體上地(in a general way, without considering specific examples or all the details)|Broadly speaking, don't you think women make better drivers than men?|
+|splendid|adjective|極佳的，非常好的；華麗的；壯麗的(excellent, or beautiful and impressive)|You look splendid in that outfit.|
+|numerous|adjective|許多的，大量的(many)|We have discussed these plans on numerous occasions.|
+|upside|noun|優點；好處；有利的一面(the advantage of a situation)|It's annoying that we can't travel until Thursday, but the upside is that tickets are cheaper then.|
+|arbitrary|adjective|任意的；隨機的；隨心所欲的(based on chance rather than being planned or based on reason) |Did you have a reason for choosing your destination or was it arbitrary?| 
+|sufficient|adjective|足夠的，充足的(enough for a particular purpose)|This recipe should be sufficient for five people.| 
+|incur|verb |招致；遭受(to experience something, usually something unpleasant, as a result of actions you have taken)|The play has incurred the wrath/anger of both audiences and critics.|
+|nontrivial| | | |
 ## 片語
 |Ph|Example|
 |---|---|
