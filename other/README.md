@@ -44,7 +44,13 @@
 |incur|verb |招致；遭受(to experience something, usually something unpleasant, as a result of actions you have taken)|The play has incurred the wrath/anger of both audiences and critics.|
 |nontrivial| | | |
 |contiguous|adjective|相近的，相鄰的；毗鄰的；互相連接的(next to or touching another, usually similar, thing)| |
+|notably|adverb|格外地，特別地(especially or most importantly)||
+|significant|adjective|重要的；顯著的(important or noticeable)|There has been a significant increase in the number of women students in recent years.|
+|substantial|adjective|大的；可觀的；價值巨大的；重大的(large in size, value, or importance)|She inherited a substantial fortune from her grandmother.|
+|notable|adjective|顯要的；顯著的；值得注意的(important and deserving attention, because of being very good or interesting)|Getting both sides to agree was a notable achievement.| 
+|satisfies|verb |達到條件／滿足需要／符合要求(to have or provide something that is needed or wanted)|She satisfies all the requirements for the job.|
 ## 片語
 |Ph|Example|
 |---|---|
 |communicate with|Nodes can communicate with containers without NAT.|
+|number of ||
