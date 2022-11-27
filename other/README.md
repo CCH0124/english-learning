@@ -49,8 +49,11 @@
 |substantial|adjective|大的；可觀的；價值巨大的；重大的(large in size, value, or importance)|She inherited a substantial fortune from her grandmother.|
 |notable|adjective|顯要的；顯著的；值得注意的(important and deserving attention, because of being very good or interesting)|Getting both sides to agree was a notable achievement.| 
 |satisfies|verb |達到條件／滿足需要／符合要求(to have or provide something that is needed or wanted)|She satisfies all the requirements for the job.|
+|indication|noun|標示；表明；顯示；暗示(a sign that something exists, is true, or is likely to happen)| Helen's face gave no indication of what she was thinking.|
 ## 片語
 |Ph|Example|
 |---|---|
 |communicate with|Nodes can communicate with containers without NAT.|
 |number of ||
+|indication of| |
+|into account | |
