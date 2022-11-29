@@ -52,6 +52,7 @@
 |indication|noun|標示；表明；顯示；暗示(a sign that something exists, is true, or is likely to happen)| Helen's face gave no indication of what she was thinking.|
 |misused|verb|錯用，誤用；濫用；盜用(to use something in an unsuitable way or in a way that was not intended)|She was accused of misusing company funds.|
 |worsen|verb|（使）惡化；（使）更糟(to become worse or to make something become worse)|The continued supply of arms to the region will only worsen the situation.|
+|precedent|noun|先例，前例| |
 ## 片語
 |Ph|Example|
 |---|---|
