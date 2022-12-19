@@ -53,6 +53,9 @@
 |misused|verb|錯用，誤用；濫用；盜用(to use something in an unsuitable way or in a way that was not intended)|She was accused of misusing company funds.|
 |worsen|verb|（使）惡化；（使）更糟(to become worse or to make something become worse)|The continued supply of arms to the region will only worsen the situation.|
 |precedent|noun|先例，前例| |
+|overarching|adjective|首要的；包羅萬象的，支配一切的(most important, because of including or affecting all other areas)|a grand overarching strategy|
+|reside|verb|居住；定居(to live, have your home, or stay in a place)|The family now resides in southern France.|
+|dictates|verb|命令，下（令）；決定，規定(to give orders, or tell someone exactly what they must do, with total authority)| |
 ## 片語
 |Ph|Example|
 |---|---|
