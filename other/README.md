@@ -56,6 +56,12 @@
 |overarching|adjective|首要的；包羅萬象的，支配一切的(most important, because of including or affecting all other areas)|a grand overarching strategy|
 |reside|verb|居住；定居(to live, have your home, or stay in a place)|The family now resides in southern France.|
 |dictates|verb|命令，下（令）；決定，規定(to give orders, or tell someone exactly what they must do, with total authority)| |
+|adoption|noun|接受；採用；採納(accepting or starting to use something new)|Several suggestions have been offered for adoption by the panel.|
+|unquestionably|adverb|毫無疑問|She is unquestionably good at physics.|
+|compelling|adjective|（理由、論證等）令人信服的，很有說服力的(If a reason, argument, etc. is compelling, it makes you believe it or accept it because it is so strong.)|It's a fairly compelling argument for going.|
+|aspiration|noun|志向，抱負；渴望達到的目標(something that you hope to achieve)|I've never had any political aspirations.|
+|largely|adverb|主要地；大多；在很大程度上|Their complaints have been largely ignored.| 
+|endless|adjective|無休止的；無窮盡的(never finishing, or seeming never to finish)|The possibilities are endless.|
 ## 片語
 |Ph|Example|
 |---|---|
