@@ -62,10 +62,12 @@
 |aspiration|noun|志向，抱負；渴望達到的目標(something that you hope to achieve)|I've never had any political aspirations.|
 |largely|adverb|主要地；大多；在很大程度上|Their complaints have been largely ignored.| 
 |endless|adjective|無休止的；無窮盡的(never finishing, or seeming never to finish)|The possibilities are endless.|
+
 ## 片語
-|Ph|Example|
-|---|---|
-|communicate with|Nodes can communicate with containers without NAT.|
-|number of ||
-|indication of| |
-|into account | |
+|Ph|description|Example|
+|---|---|||
+|communicate with||Nodes can communicate with containers without NAT.|
+|number of |||
+|indication of| ||
+|into account | ||
+| be incumbent on/upon sb |（某人）義不容辭；（某人）必須履行 |She felt it incumbent upon/on her to raise the subject at their meeting. |
