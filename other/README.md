@@ -62,12 +62,18 @@
 |aspiration|noun|志向，抱負；渴望達到的目標(something that you hope to achieve)|I've never had any political aspirations.|
 |largely|adverb|主要地；大多；在很大程度上|Their complaints have been largely ignored.| 
 |endless|adjective|無休止的；無窮盡的(never finishing, or seeming never to finish)|The possibilities are endless.|
+|meet|verb|滿足；達到，完成(to fulfil, satisfy, or achieve) |Do you think we will be able to meet our deadline/target?| 
+|decade|noun|十年；年代||
+|decent|adjective|正派的；體面的，正經的；像樣的，相當不錯的(socially acceptable or good)|I thought he was a decent person.|
 
 ## 片語
 |Ph|description|Example|
-|---|---|||
+|---|---|---|
 |communicate with||Nodes can communicate with containers without NAT.|
 |number of |||
 |indication of| ||
 |into account | ||
 | be incumbent on/upon sb |（某人）義不容辭；（某人）必須履行 |She felt it incumbent upon/on her to raise the subject at their meeting. |
+|paired with|與…配對(to make something one of a pair, or to become one of a pair)| |
+|be willing (to do sth)|願意，樂意（做某事）|If you're willing to fly at night, you can get a much cheaper ticket.|
+|be in/out of tune with sb/sth|與…協調／不協調，與…相／不相契合|Much of his success comes from being in tune with what his customers want.|
