@@ -65,6 +65,8 @@
 |meet|verb|滿足；達到，完成(to fulfil, satisfy, or achieve) |Do you think we will be able to meet our deadline/target?| 
 |decade|noun|十年；年代||
 |decent|adjective|正派的；體面的，正經的；像樣的，相當不錯的(socially acceptable or good)|I thought he was a decent person.|
+|agnostic|noun |不可知論者（對神存在與否不能肯定或認為不可知）|Although he was raised a Catholic, he was an agnostic for most of his adult life.|
+
 
 ## 片語
 |Ph|description|Example|
@@ -77,3 +79,4 @@
 |paired with|與…配對(to make something one of a pair, or to become one of a pair)| |
 |be willing (to do sth)|願意，樂意（做某事）|If you're willing to fly at night, you can get a much cheaper ticket.|
 |be in/out of tune with sb/sth|與…協調／不協調，與…相／不相契合|Much of his success comes from being in tune with what his customers want.|
+|pillar of sth|重要成員；棟樑，中堅|Equality is one of the pillars of socialism.|
