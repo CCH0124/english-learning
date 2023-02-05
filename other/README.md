@@ -66,7 +66,8 @@
 |decade|noun|十年；年代||
 |decent|adjective|正派的；體面的，正經的；像樣的，相當不錯的(socially acceptable or good)|I thought he was a decent person.|
 |agnostic|noun |不可知論者（對神存在與否不能肯定或認為不可知）|Although he was raised a Catholic, he was an agnostic for most of his adult life.|
-
+|reproduce|verb|to show or do something again 重演；重現；重做|The new design unfortunately reproduced some of the problems of the earlier model.|
+|beforehand|adverb|earlier (than a particular time) 事先，預先|I knew she was coming that afternoon because she had phoned beforehand to say so.|
 
 ## 片語
 |Ph|description|Example|
