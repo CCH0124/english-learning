@@ -68,7 +68,16 @@
 |agnostic|noun |不可知論者（對神存在與否不能肯定或認為不可知）|Although he was raised a Catholic, he was an agnostic for most of his adult life.|
 |reproduce|verb|to show or do something again 重演；重現；重做|The new design unfortunately reproduced some of the problems of the earlier model.|
 |beforehand|adverb|earlier (than a particular time) 事先，預先|I knew she was coming that afternoon because she had phoned beforehand to say so.|
-
+|feasible|adjective|able to be made, done, or achieved 可行的；行得通的；做得到的|With the extra resources, the project now seems feasible.|
+|narrow|adjective|having a small distance from one side to the other, especially in comparison with the length（尤指與長度相比）狹窄的|The little village has very narrow streets.|
+|upfront|adjective |speaking or behaving in a way that makes intentions and beliefs clear公開的；坦率的|She's very upfront about why she wants the job - she'd earn a lot more money.|
+|up to date|adjective|modern, recent, or containing the latest information 現代的；最近的；包含最新資訊的| We work hard to keep our database up to date.|
+|infer|verb |推斷，推論，推理|What do you infer from her refusal?|
+|comply|verb|服從；遵守；依從|There are serious penalties for failure to comply with the regulations.|
+|spike|noun |（通常指在下跌前）非常高的數量，價格或程度|If price spikes continue, people will not be able to afford the new houses they want.|
+|peak|noun|the highest, strongest, or best point, value, or level of skill 最高點，高峰|Prices reach a peak during August.|
+|criteria|noun|標準| |
+|spatial|adjective|空間的||
 ## 片語
 |Ph|description|Example|
 |---|---|---|
@@ -81,3 +90,5 @@
 |be willing (to do sth)|願意，樂意（做某事）|If you're willing to fly at night, you can get a much cheaper ticket.|
 |be in/out of tune with sb/sth|與…協調／不協調，與…相／不相契合|Much of his success comes from being in tune with what his customers want.|
 |pillar of sth|重要成員；棟樑，中堅|Equality is one of the pillars of socialism.|
+|narrow sth down|把…縮減，壓縮|We narrowed the list of candidates down from ten to three.|
+
