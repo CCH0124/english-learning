@@ -78,6 +78,12 @@
 |peak|noun|the highest, strongest, or best point, value, or level of skill 最高點，高峰|Prices reach a peak during August.|
 |criteria|noun|標準| |
 |spatial|adjective|空間的||
+|dense|adjective|濃的，濃密的；濃厚的|The body was found hidden in dense undergrowth.|
+|discrepancy|noun|a difference between two things that should be the same不一致，出入，差異|There is some discrepancy between the two accounts.|
+|inconsistency|noun|（思想、說法或論點的）不一致；不一致的思想、說法或論點|There are a few inconsistencies in what you've written.|
+|accommodate|verb |為…提供住宿；容納；為…提供空間|New students may be accommodated in halls of residence.|
+|intuitive|adjective|based on feelings rather than facts or proof直覺的；憑直覺的|Most people have an intuitive sense of right and wrong.|
+|intersect|verb|（線條、道路等）（和…）相交，（和…）交叉|The roads intersect near the bridge.|
 ## 片語
 |Ph|description|Example|
 |---|---|---|
