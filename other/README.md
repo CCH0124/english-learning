@@ -84,6 +84,10 @@
 |accommodate|verb |為…提供住宿；容納；為…提供空間|New students may be accommodated in halls of residence.|
 |intuitive|adjective|based on feelings rather than facts or proof直覺的；憑直覺的|Most people have an intuitive sense of right and wrong.|
 |intersect|verb|（線條、道路等）（和…）相交，（和…）交叉|The roads intersect near the bridge.|
+|rapidly|adverb|in a fast or sudden way 快速地，迅猛地|Our company is expanding rapidly.|
+|serve|verb|to provide food or drinks 提供|Do they serve meals in the bar?|
+
+
 ## 片語
 |Ph|description|Example|
 |---|---|---|
