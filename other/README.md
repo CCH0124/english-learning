@@ -86,7 +86,8 @@
 |intersect|verb|（線條、道路等）（和…）相交，（和…）交叉|The roads intersect near the bridge.|
 |rapidly|adverb|in a fast or sudden way 快速地，迅猛地|Our company is expanding rapidly.|
 |serve|verb|to provide food or drinks 提供|Do they serve meals in the bar?|
-
+|introduce|verb|to put something into use, operation, or a place for the first time 採用;引進;推行;放入，插入|Apple has sold many millions of iPods since the product was introduced in 2001.|
+|certain|adjective|having no doubt or knowing exactly that something is true, or known to be true, correct, exact, or effective 肯定的，無疑的；有把握的；確定的|You should make certain (that) everyone understands the instructions.|
 
 ## 片語
 |Ph|description|Example|
