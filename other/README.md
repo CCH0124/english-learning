@@ -88,6 +88,10 @@
 |serve|verb|to provide food or drinks 提供|Do they serve meals in the bar?|
 |introduce|verb|to put something into use, operation, or a place for the first time 採用;引進;推行;放入，插入|Apple has sold many millions of iPods since the product was introduced in 2001.|
 |certain|adjective|having no doubt or knowing exactly that something is true, or known to be true, correct, exact, or effective 肯定的，無疑的；有把握的；確定的|You should make certain (that) everyone understands the instructions.|
+|expenditure|noun|the total amount of money that a government or person spends（政府或個人的）全部開支，花費；the act of using or spending energy, time, or money（精力、時間或錢的）耗費，花費|todo.|
+|prove|verb|to show a particular result after a period of time證明是，結果是|The operation proved a complete success.|
+|menial|adjective|Menial work is boring, makes you feel tired, and is given a low social value.（工作）乏味的，低賤的，不體面的|It's fairly menial work, such as washing dishes and cleaning floors.|
+|possess|verb |to have or own something, or to have a particular quality擁有；具有|I don't possess a single DVD.|
 
 ## 片語
 |Ph|description|Example|
