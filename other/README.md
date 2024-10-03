@@ -92,6 +92,9 @@
 |prove|verb|to show a particular result after a period of time證明是，結果是|The operation proved a complete success.|
 |menial|adjective|Menial work is boring, makes you feel tired, and is given a low social value.（工作）乏味的，低賤的，不體面的|It's fairly menial work, such as washing dishes and cleaning floors.|
 |possess|verb |to have or own something, or to have a particular quality擁有；具有|I don't possess a single DVD.|
+|superior|adjective |better than average or better than other people or things of the same type好於平均的，好過其他的，優越的|This is clearly the work of a superior artist.|
+|corollary|noun  |something that results from something else必然結果，直接的結果|todo.|
+
 
 ## 片語
 |Ph|description|Example|
