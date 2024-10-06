@@ -94,8 +94,16 @@
 |possess|verb |to have or own something, or to have a particular quality擁有；具有|I don't possess a single DVD.|
 |superior|adjective |better than average or better than other people or things of the same type好於平均的，好過其他的，優越的|This is clearly the work of a superior artist.|
 |corollary|noun  |something that results from something else必然結果，直接的結果|todo.|
-
-
+|characteristic|noun|a typical or noticeable quality of someone or something特色，特點，特徵|Unfortunately a big nose is a family characteristic.|
+|entirely|adverb|completely 完全；徹底；完整地|I admit it was entirely my fault.|
+|mindful|adjective|careful not to forget about something 記著的;留神的;注意的;小心的|Mindful of the poor road conditions, she reduced her speed to 30 mph.|
+|degradation|noun|the process in which the beauty or quality of something is destroyed or spoiled玷污；損害，危害||
+|disguised|adjective|having an appearance that hides the true form  化過裝的，偽裝的||
+|relevant|adjective|connected with what is happening or being discussed 有關的；相關聯的；切題的||
+|neglect|verb |to not give enough care or attention to people or things that are your responsibility 疏忽照顧；忽視，疏忽||
+|fellow|adjective |used to refer to someone who has the same job or interests as you, or is in the same situation as you 同事的；同伴的；同情況的|She introduced me to some of her fellow students.|
+|prestigious|adjective|very much respected and admired, usually because of being important 有威望的，有聲望的，受尊敬的||
+|polished|adjective|having been polished 磨光的;擦亮的||
 ## 片語
 |Ph|description|Example|
 |---|---|---|
