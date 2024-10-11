@@ -104,6 +104,11 @@
 |fellow|adjective |used to refer to someone who has the same job or interests as you, or is in the same situation as you 同事的；同伴的；同情況的|She introduced me to some of her fellow students.|
 |prestigious|adjective|very much respected and admired, usually because of being important 有威望的，有聲望的，受尊敬的||
 |polished|adjective|having been polished 磨光的;擦亮的||
+|decommission|verb |to take equipment or weapons out of use關閉，停止使用（設備或武器）|The government has decided to decommission two battleships. 政府決定讓兩艘軍艦退役。|
+|emphasize|verb |to show that something is very important or worth giving attention to 強調;重視||
+|deviate|verb |to do something that is different from the usual or common way of behaving 脫離；出格，違背規則||
+|scribble|verb |to write or draw something quickly or carelessly匆匆地寫;亂塗亂畫；隨手寫||
+|briefly|adverb|for a short time短暫地;簡短地||
 ## 片語
 |Ph|description|Example|
 |---|---|---|
@@ -117,4 +122,5 @@
 |be in/out of tune with sb/sth|與…協調／不協調，與…相／不相契合|Much of his success comes from being in tune with what his customers want.|
 |pillar of sth|重要成員；棟樑，中堅|Equality is one of the pillars of socialism.|
 |narrow sth down|把…縮減，壓縮|We narrowed the list of candidates down from ten to three.|
+|one at a time |to do or deal with one thing before starting to do or deal with another（對問題）一個個來處理||
 
