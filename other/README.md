@@ -109,6 +109,8 @@
 |deviate|verb |to do something that is different from the usual or common way of behaving 脫離；出格，違背規則||
 |scribble|verb |to write or draw something quickly or carelessly匆匆地寫;亂塗亂畫；隨手寫||
 |briefly|adverb|for a short time短暫地;簡短地||
+|inadvisable|adjective|unwise and likely to have unwanted results, and therefore worth avoiding 不可取的，不明智的||
+|linger|verb|to take a long time to leave or disappear 停留，逗留;徘徊||
 ## 片語
 |Ph|description|Example|
 |---|---|---|
