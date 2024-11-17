@@ -111,6 +111,7 @@
 |briefly|adverb|for a short time短暫地;簡短地||
 |inadvisable|adjective|unwise and likely to have unwanted results, and therefore worth avoiding 不可取的，不明智的||
 |linger|verb|to take a long time to leave or disappear 停留，逗留;徘徊||
+|regard|verb|to consider or have an opinion about something or someone 考慮，思考;將…認為;看待||
 ## 片語
 |Ph|description|Example|
 |---|---|---|
